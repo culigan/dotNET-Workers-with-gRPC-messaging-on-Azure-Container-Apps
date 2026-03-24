@@ -19,7 +19,7 @@ env:
   WORKER_DOCKER: SensorWorker/Dockerfile
   WORKER_IMAGE: worker
 
-  SERVICE_DOCKER: SensorService/Dockerfile
+  SERVICE_DOCKER: SensorService/Dockerfile 
   SERVICE_IMAGE: service
 
 jobs:
